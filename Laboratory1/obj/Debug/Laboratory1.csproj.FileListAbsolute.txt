@@ -1,0 +1,11 @@
+D:\marcin\Documents\Informatyka\Dydaktyka\Materiały\Wstęp do Sztucznej Inteligencji\Dla studentów\Laboratory1\src\Laboratory1\bin\Debug\Laboratory1.exe
+D:\marcin\Documents\Informatyka\Dydaktyka\Materiały\Wstęp do Sztucznej Inteligencji\Dla studentów\Laboratory1\src\Laboratory1\bin\Debug\Laboratory1.pdb
+D:\marcin\Documents\Informatyka\Dydaktyka\Materiały\Wstęp do Sztucznej Inteligencji\Dla studentów\Laboratory1\src\Laboratory1\obj\Debug\Laboratory1.csprojResolveAssemblyReference.cache
+D:\marcin\Documents\Informatyka\Dydaktyka\Materiały\Wstęp do Sztucznej Inteligencji\Dla studentów\Laboratory1\src\Laboratory1\obj\Debug\Laboratory1.exe
+D:\marcin\Documents\Informatyka\Dydaktyka\Materiały\Wstęp do Sztucznej Inteligencji\Dla studentów\Laboratory1\src\Laboratory1\obj\Debug\Laboratory1.pdb
+C:\Users\Patryk\Desktop\Laby wdsi\lab1\src\Laboratory1\bin\Debug\Laboratory1.exe
+C:\Users\Patryk\Desktop\Laby wdsi\lab1\src\Laboratory1\bin\Debug\Laboratory1.pdb
+C:\Users\Patryk\Desktop\Laby wdsi\lab1\src\Laboratory1\obj\Debug\Laboratory1.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\Laby wdsi\lab1\src\Laboratory1\obj\Debug\Laboratory1.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Laby wdsi\lab1\src\Laboratory1\obj\Debug\Laboratory1.exe
+C:\Users\Patryk\Desktop\Laby wdsi\lab1\src\Laboratory1\obj\Debug\Laboratory1.pdb
